@@ -26,7 +26,7 @@ CSFML (graphics, audio, and window management)
 
 
 ## Usage/Examples
-
+On linux
 ```bash
 make re
 ./rpg
@@ -34,5 +34,8 @@ make re
 
 
 ## Screenshots
-<img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/a6e8815b-6a0e-4f63-a7d6-32955aac9bda" />
-<img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/ea1929a9-f0a6-4fbc-9f68-75c10efc67d5" />
+<img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/337d9eb7-7c9c-4f41-9f21-035bd74f3312" />
+<img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/131671fd-669d-44ee-bfe6-7b6e8a2b1823" />
+<img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/b441f693-3e6f-4376-9a7c-ba4124c35a49" />
+<img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/6a682984-e9e5-4d93-bebe-d37050d11600" />
+<img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/6077d060-c923-4b6e-9f77-f478235d7363" />
